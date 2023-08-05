@@ -1,0 +1,4 @@
+sonarqube
+token no
+
+squ_120b6d889f39ee564d6e20857e5b6c52ca2f0c8c
